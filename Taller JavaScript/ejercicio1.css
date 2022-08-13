@@ -1,3 +1,8 @@
+body{
+    background-image: url(https://github.com/Garc3s/TRABAJO-EN-CLASE-2-JAVASCRIPT/blob/main/Taller%20JavaScript/Biografia-de-Jihyo3-min.jpg?raw=true);
+    background-size: cover;
+    background-repeat: no-repeat
+}
 .contenedor{
     display: flex;
     flex-direction: row;
@@ -13,6 +18,7 @@
     flex-direction: column;
     background-color: rgba();
     overflow-y: auto;
+    color: white;
    
 }
 

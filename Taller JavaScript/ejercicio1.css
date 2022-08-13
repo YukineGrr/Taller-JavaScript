@@ -1,0 +1,32 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 95vh;
+    width: 95vw;
+
+}
+
+.contenedorList{
+
+    display: flex;
+    flex-direction: column;
+    background-color: rgba();
+    overflow-y: auto;
+   
+}
+
+.botones{
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    margin-left: 4%;
+    
+
+}
+
+#btnCreate {
+
+    margin-bottom: 4%;
+}
